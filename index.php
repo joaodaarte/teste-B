@@ -1,13 +1,9 @@
 <?php
 
-echo "Hello, World!";
-echo "Mais um textinho: abcdefg";
-echo "Outro texto: 1234";
-echo "Agora uma novidade: texto local";
+echo "Echo 1";
+echo "Echo 2";
+echo "Echo 3";
+echo "Echo 4";
 echo "Echo 5";
-echo "Echo 6 e 7";
-echo "Echo 8";
-
-echo "Echo 9";
 
 ?>
