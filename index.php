@@ -6,4 +6,6 @@ echo "Echo 3";
 echo "Echo 4";
 echo "Echo 5";
 
+echo "depois do 5, mais nenhum echo";
+
 ?>
